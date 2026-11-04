@@ -1,0 +1,92 @@
+[
+  {
+    "company": "美的集团",
+    "code": "000333",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-30/1225063589.PDF",
+    "file": "data\\pdf\\000333_2025.pdf",
+    "sha256": "7d19f8a7dcbf3e58996d4947f01391dd09d7e90cf18786df851bf81f73bd8fc4",
+    "bytes": 13547719
+  },
+  {
+    "company": "格力电器",
+    "code": "000651",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225250396.PDF",
+    "file": "data\\pdf\\000651_2025.pdf",
+    "sha256": "7cc972f2d199e2ec3797cc5da479e8268afa59b77875770de3bcd3648242fb8c",
+    "bytes": 2350012
+  },
+  {
+    "company": "海尔智家",
+    "code": "600690",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-27/1225038336.PDF",
+    "file": "data\\pdf\\600690_2025.pdf",
+    "sha256": "14186f9f9b47f687c527ba14825664f3b09e51759d581636cddcc248f26e3660",
+    "bytes": 1823191
+  },
+  {
+    "company": "海信家电",
+    "code": "000921",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225050277.PDF",
+    "file": "data\\pdf\\000921_2025.pdf",
+    "sha256": "142eb04c9c7bdd7d43420da623786ba3f5b8957bdd0c490dc1849f96d0310f68",
+    "bytes": 1520956
+  },
+  {
+    "company": "苏泊尔",
+    "code": "002032",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-03/1225076804.PDF",
+    "file": "data\\pdf\\002032_2025.pdf",
+    "sha256": "d323425e24b34f7cfa8fbff819cdd1b0daa47a5bd331da6d27c9f956478a6a7b",
+    "bytes": 4332065
+  },
+  {
+    "company": "九阳股份",
+    "code": "002242",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-27/1225036494.PDF",
+    "file": "data\\pdf\\002242_2025.pdf",
+    "sha256": "7f226561affaccbc7109f134f8ffc20ecc2e6fc4938a535a2dd2813dac8c7210",
+    "bytes": 1103258
+  },
+  {
+    "company": "新宝股份",
+    "code": "002705",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-29/1225226404.PDF",
+    "file": "data\\pdf\\002705_2025.pdf",
+    "sha256": "50c3f0503c9a35826ad96807556a3795fc1549646464ffa0a9c538f7ba582172",
+    "bytes": 1787276
+  },
+  {
+    "company": "小熊电器",
+    "code": "002959",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-09/1225085711.PDF",
+    "file": "data\\pdf\\002959_2025.pdf",
+    "sha256": "d3c6320f3e8fb93b038a8c88b6902b2d2e82d4a52c81524f6a68186718ee2c44",
+    "bytes": 4011371
+  },
+  {
+    "company": "海信视像",
+    "code": "600060",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-03-31/1225051157.PDF",
+    "file": "data\\pdf\\600060_2025.pdf",
+    "sha256": "23e8341c13ac4bb45cea4862b802a00d6b22fadcdc07ed833a2514f510f81ccc",
+    "bytes": 1842038
+  },
+  {
+    "company": "长虹美菱",
+    "code": "000521",
+    "year": 2025,
+    "url": "https://static.cninfo.com.cn/finalpage/2026-04-03/1225077806.PDF",
+    "file": "data\\pdf\\000521_2025.pdf",
+    "sha256": "0c17719c5b657e32791332745e86252352bc968203bb539e764e3eca9a0a8adc",
+    "bytes": 1674808
+  }
+]

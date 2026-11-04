@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+data/pdf/
+data/index/
+data/chunks.jsonl
+data/pages.jsonl
+*.log
